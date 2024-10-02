@@ -1,7 +1,6 @@
 # Human Phenotype Image Scraper
 
-This project is a web scraper that extracts data from [Human Phenotypes](http://humanphenotypes.net/) and downloads images of various male and female phenotypes. The application organizes these images into a structured folder system, enabling users to easily access and view different phenotypes.
-
+This project scrapes images from the [Human Phenotypes](http://humanphenotypes.net/) website and organizes them by male and female phenotypes. Using AI, the tool lets users upload their own photos to find the closest matching phenotype, showing how similar they are to various phenotypes.
 ## Features
 
 - **Data Scraping**: Automatically retrieves images of human phenotypes from the website.
