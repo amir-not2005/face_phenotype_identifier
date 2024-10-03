@@ -1,4 +1,4 @@
-# Human Phenotype Identifies
+# Human Phenotype Identifier
 
 This project scrapes images from the [Human Phenotypes](http://humanphenotypes.net/) website and organizes them by male and female phenotypes. Using AI, the tool lets users upload their own photos to find the closest matching phenotype, showing how similar they are to various phenotypes.
 ## Features
